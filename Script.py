@@ -9,7 +9,12 @@ class script(object):
 
 ⚠️ 𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
 
-<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @MOVIES_HUB_ALPHA</b>"""
+<b>😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @MOVIES_HUB_ALPHA</b>
+
+<b>🌟 Help Us Keep the Magic Alive! Support Our Service with a Donation For The VPS.
+U Can Help Us By Donating Here UPI ID: khrish007.123@oksbi
+Please Help Us
+#KeepTheServiceAlive</b>"""
 
     HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈o Bacchooooooooooooo 🤓
 
